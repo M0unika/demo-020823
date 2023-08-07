@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "data34" 
+=======
+"1data2" 
+>>>>>>> origin/main
